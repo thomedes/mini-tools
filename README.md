@@ -1,2 +1,3 @@
 # mini-tools
-Small scripts to ease everyday work
+
+Small scripts to ease everyday’s work
